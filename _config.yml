@@ -29,9 +29,9 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+author: "Farheen"
+title: "{ Life Of An Awkward Adult }"
+description: "Weird since 1996."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
@@ -55,8 +55,13 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
+  - text: "Internalize your pursuit"
   - text: "Where’s your will to be weird?"
+  - text: "It's not always rainbows and butterflies"
+  - text: "It's compromise that move us along."
+  - text: "Mista Chulchula says, "Hello"."
+  
+
 
 me-img: "/img/jetpacktocat.png"
 
