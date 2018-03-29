@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Internalize your pursuit"
   - text: "Where’s your will to be weird?"
-  - text: "It's not always rainbows and butterflies"
+  - text: "It's not always rainbows and butterflies."
   - text: "It's compromise that move us along."
   
 
