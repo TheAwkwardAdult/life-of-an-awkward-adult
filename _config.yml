@@ -33,15 +33,15 @@ author: "Farheen"
 title: "{ Life Of An Awkward Adult }"
 description: "Weird since 1996."
 keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+favicon: "/img/mistaChulchula.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/mistaChulchula.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/LifeOfAnAkwardAdult.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -62,7 +62,7 @@ lines: # You can add HTML Tags in the Text
   
 
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/LifeOfAnAkwardAdult.png"
 
 ##############################
 # Color the browser elements #
