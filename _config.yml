@@ -39,9 +39,9 @@ favicon: "/img/mistaChulchula.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/mistaChulchula.ico"
+black-favicon: "/img/favicon.ico"
 
-background-img: "../img/LifeOfAnAkwardAdult.jpg"
+background-img: "../img/LO3A.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -62,7 +62,7 @@ lines: # You can add HTML Tags in the Text
   
 
 
-me-img: "/img/LifeOfAnAkwardAdult.png"
+me-img: "/img/LO3A1.png"
 
 ##############################
 # Color the browser elements #
