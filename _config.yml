@@ -31,7 +31,7 @@ lang: "en"
 #author: "Farheen"
 title: "{ Life Of An Awkward Adult }"
 description: "Weird since 1996."
-keywords: "smith, jones, personal, jekyll, theme"
+#keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/mistaChulchula.ico"
 
 ################
@@ -155,8 +155,8 @@ social:
     url: "https://github.com/farheensamad28"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/farheen-samad-6b1b94114/"
-  - title: "kaggle"
-    url: "https://www.kaggle.com/farheen28"
+#  - title: "kaggle"
+#    url: "https://www.kaggle.com/farheen28"
 
 ############
 # 404 page #
