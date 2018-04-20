@@ -1,6 +1,3 @@
----
-published: true
----
 ## Eye on Fire.
 _I got a stye,_
 
