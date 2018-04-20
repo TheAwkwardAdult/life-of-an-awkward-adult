@@ -21,4 +21,6 @@ _I see through my window a guy,_
 
 _Getting high._
 
-![]({{site.baseurl}}//Eye%20On%20Fire.png)
+
+
+![Eye-On-Fire.png]({{site.baseurl}}/Eye-On-Fire.png)
