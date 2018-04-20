@@ -1,3 +1,11 @@
+---
+layout: post
+section-type: post
+title: Eye on Fire.
+category: What's up.
+tags: [ 'sad days' ]
+---
+
 ## Eye on Fire.
 _I got a stye,_
 
