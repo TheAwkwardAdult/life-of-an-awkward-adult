@@ -3,6 +3,8 @@ _I got a stye,_
 
 _In my eye._
 
+_Alas. I can't deny._
+
 _Feels like a fly,_
 
 _Sitting on my eye._
