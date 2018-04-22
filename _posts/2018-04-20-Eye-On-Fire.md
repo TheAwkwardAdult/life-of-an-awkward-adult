@@ -1,12 +1,12 @@
 ---
 layout: post
 section-type: post
-title: Eye on Fire.
+title: An Ode To The Stye.
 category: What's up.
 tags: [ 'sad days' ]
 ---
 
-## Eye on Fire.
+## An ode to the stye.
 _I got a stye,_
 
 _In my eye._
