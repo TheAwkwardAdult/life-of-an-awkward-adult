@@ -6,28 +6,29 @@ category: Muse
 tags: [ 'The Musing Mind' ]
 ---
 
-## Apathy and Entrophy Part 1.
+_Disclaimer: This is totally my personal views and things I have learnt. This is maynot be true for all people, but it can be helpful to those teenagers/ going to be adults who feel lost and detached and need some help._
 
+"_In all spontaneous processes,the total entropy always increases and the process is irreversible. The increase in entropy accounts for the irreversibility of natural processes, and the asymmetry between future and past_."
 
-The second law of thermodynamics states that, "_In all spontaneous processes,[1] the total entropy always increases and the process is irreversible. The increase in entropy accounts for the irreversibility of natural processes, and the asymmetry between future and past_."
+This is the second law of thermodynamics and one of the earliest proof of the universe motivating us to not settle down for anything less and just taking risk, keep growing, exploring, innovating and most important keep increasing the choas in the universe. (for good).
 
 Then who are we to deny science? Why are we bend on settling down? Are we being selfish? Are we being wise? Or are we being lazy?
 
-I have reached that phase of my life, where as a functioning memeber of the society, I have made the foundation to the setteling down phase. Freshly brewed in the college. I got into an MNC. A decent job, a decent salary. What comes next?  Finding a good earning groom. Getting married. Get kids, a pet, buy a house in suburb and live it off lavishly? It sounds perfect. Normal. Sounds like what is socially accepted. 
+I have reached that phase of my life, where as a functioning member of the society, I have made the foundation to the settling down. Freshly brewed in the college. I got into an MNC. A decent job, a decent salary. What comes next?  Finding a good earning groom. Getting married. Get kids, a pet, buy a house in suburb and live it off lavishly? It sounds perfect. Normal. Sounds like what is socially accepted. 
 
 We wake up to the sound of alarm. Start rushing, hustling. We are busy. Check whatsapp messages, check people's status
 
-_busy.
+_busy._
 
-busy.
+_busy._
 
-busy._
+_busy._
 
-This reminds me of an article published in 'The New York Time', 'The Busy Trap'. Of course it's not true for all people.Most people in this world are busy doing there routine each day. How many of us are really productive? What is about? Is it about being busy or productive? How do you know what you are actually doing in your life?
+This reminds me of an article published in 'The New York Time', 'The Busy Trap'. Most people in this world are busy doing there routine each day. How many of us are really productive? What is about? Is it about being busy or productive? How do you know what you are actually doing in your life?
 
-"Busyness serves as a kind of existential reassurance, a hedge against emptiness; obviously your life cannot possibly be silly or trivial or meaningless if you are so busy, completely booked, in demand every hour of the day."
+_"Busyness serves as a kind of existential reassurance, a hedge against emptiness; obviously your life cannot possibly be silly or trivial or meaningless if you are so busy, completely booked, in demand every hour of the day."_
 
-Now the real question arises is, why do we have this emptiness in us? after all, you live only once, you are the most important person in your life, it is your happiness that matters. Whatever you are doing now, should make you happy not empty. 
+Now question arises, why do we have this emptiness in us? after all, you live only once, you are the most important person in your life, it is your happiness that matters. Whatever you are doing now, should make you happy not empty. 
 
 The culprit, I may say is the way we are raised and brought up in this society. The education system. 
 
@@ -54,4 +55,3 @@ Your engagement in your work, your productivity and happiness depends on 3 main 
 1. Creativity. : opportunity to improvise your work and implement your ideas
 2. Control.: you have some say on how, when and where your work gets done.
 3. Impact.: your work has a positive influence on your co-workers or customers.
-
