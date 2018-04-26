@@ -28,7 +28,9 @@ _"Busyness serves as a kind of existential reassurance, a hedge against emptines
 
 Now question arises, why do we have this emptiness in us? After all, you live only once, you are the most important person in your life, it is your happiness that matters. Whatever you are doing now, should make you happy not empty. 
 
-What's going wrong? Why are we void inside? The reason being, the way we see happiness. 
+What's going wrong? Why are we void inside? 
+
+This is because the way we see happiness is wrong. 
 
 Happiness has always been pictured to us by the society as something which could be derived from outside, materials. Parents get happy when their kids scores good, when the kid wins the first prize, when the kid gets into the best school of the town, when he/she cracks toughest of exam and gets into the best university, gets a fat salary settles down. _Peace_. As a kid, we grow up learning these gestures from our parents and people that surrouds us. As the year passes and the kid grows, his soul dies each time he fails his parents. Finally, when he is a grown individual and is ready to take up it's own responsibility, he sees happiness as he has learnt it all the way, as something derived from the world around us. What we are missing is the fact that happiness whould be something coming from within not our surrounding.
 
