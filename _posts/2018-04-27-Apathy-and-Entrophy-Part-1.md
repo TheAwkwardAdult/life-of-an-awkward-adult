@@ -32,7 +32,7 @@ What's going wrong? Why are we void inside?
 
 This is because the way we see happiness is wrong. 
 
-Happiness has always been pictured to us by the society as something which could be derived from outside, materials. Parents get happy when their kids scores good, when the kid wins the first prize, when the kid gets into the best school of the town, when he/she cracks toughest of exam and gets into the best university, gets a fat salary settles down. _Peace_. As a kid, we grow up learning these gestures from our parents and people that surrouds us. As the year passes and the kid grows, his soul dies each time he fails his parents. Finally, when he is a grown individual and is ready to take up it's own responsibility, he sees happiness as he has learnt it all the way, as something derived from the world around us. What we are missing is the fact that happiness whould be something coming from within not our surrounding.
+Happiness has always been pictured to us by the society as something which could be derived from outside, materials. Parents get happy when their kids scores good, when the kid wins the first prize, when the kid gets into the best school of the town, when he/she cracks toughest of exam and gets into the best university, gets a fat salary settles down. _Peace_. As a kid, we grow up learning these gestures from our parents and people that surrouds us. As the year passes and the kid grows, his soul dies each time he fails his parents. Finally, when he is a grown individual and is ready to take up it's own responsibility, he sees happiness as he has learnt it all the way, as something derived from the world around us. He is chasing something, he knows he's going somewhere, but he doesn't know where this is leading him to. He's lost. What we are missing is the fact that happiness whould be something coming from within not our surrounding.
 
 He hustles, he gets busy to get promoted. Works days and night. Over-time. He is chasing happiness but is he really happy? He is busy right? Is this what we are living this life for? 
 
@@ -48,9 +48,7 @@ We must have heard people talking about, "Passion".
 
 "How could you not be having a passion."
 
-And hence bringing down the morale of already dying soul.
+And hence bringing down the morale of already dying soul. 
 
 Some month backs, I came across this video debating on wheather passion really matters to succeed in life. The narrator there says,
 Your engagement in your work, your productivity and happiness depends on 3 main factors: Creativity, Control, Impact.
-
-_to be continued._
