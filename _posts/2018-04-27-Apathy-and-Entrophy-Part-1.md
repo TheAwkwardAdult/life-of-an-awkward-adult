@@ -32,13 +32,13 @@ What's going wrong? Why are we void inside?
 
 This is because the way we see happiness is wrong. 
 
-Happiness has always been pictured to us by the society as something which could be derived from outside, materials. Parents get happy when their kids scores good, when the kid wins the first prize, when the kid gets into the best school of the town, when he/she cracks toughest of exam and gets into the best university, gets a fat salary, settles down. _Peace_. As a kid, we grow up learning these gestures from our parents and people that surrouds us. As the year passes and the kid grows, his soul dies each time he fails his parents. Finally, when he is a grown individual and is ready to take up it's own responsibility, he sees happiness as he has learnt it all the way, as something derived from the world around us. He is chasing something, he knows he's going somewhere, but he doesn't know where this is leading him to. He's lost. What we are missing is the fact that happiness would be something coming from within us not our surrounding (_material_).
+Happiness has always been pictured to us by the society as something which could be derived from outside, materials. Parents get happy when their kids scores good, wins the first prize, kid gets into the best school of the town, when he/she cracks toughest of exam and gets into the best university, gets a fat salary, settles down. _Peace_. As a kid, we grow up learning these gestures from our parents and people that surrouds us. As the year passes and the kid grows, his soul dies each time he fails his parents. Finally, when he is a grown individual and is ready to take up it's own responsibility, he sees happiness as he has learnt it all the way, as something derived from the world around us. He is chasing something, he knows he's going somewhere, but he doesn't know where this is leading him to. He's lost. What we are missing is the fact that happiness should be something coming from within us not our surrounding (_material_).
 
-He hustles, he gets busy to get promoted. Works days and night. Over-time. He is chasing happiness but is he really happy? He is busy right? Is this what we are living this life for? 
+He hustles, toild days and night to get promoted. He doesn't leave a stone unturned. Cutting off recreation, family time. Over-time at office. He is chasing happiness but is he really happy? He is busy right? Is this what we are living this life for? 
 
 Who are the real happy people then? Does that mean that we should be spending more time in leisure activities and stop being busy?
 
-We must have heard people talking about, "Passion". 
+Then we have those poeple in the society bragging about, "Passion". 
 
 "Passion matters you know."
 
