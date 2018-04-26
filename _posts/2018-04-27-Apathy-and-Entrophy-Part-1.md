@@ -22,7 +22,7 @@ _busy._
 
 _busy._
 
-This reminds me of an article published in 'The New York Time', 'The Busy Trap'. Most people in this world are busy doing there routine each day. How many of us are really productive? What is about? Is it about being busy or productive? How do you know what you are actually doing in your life?
+This reminds me of an article published in The New York Time, 'The Busy Trap'. Most people in this world are busy doing there routine each day. How many of us are really productive? What is this about? Is it about being busy or productive? How do you know what you are actually doing in your life?
 
 _"Busyness serves as a kind of existential reassurance, a hedge against emptiness; obviously your life cannot possibly be silly or trivial or meaningless if you are so busy, completely booked, in demand every hour of the day."_
 
@@ -32,7 +32,7 @@ What's going wrong? Why are we void inside?
 
 This is because the way we see happiness is wrong. 
 
-Happiness has always been pictured to us by the society as something which could be derived from outside, materials. Parents get happy when their kids scores good, when the kid wins the first prize, when the kid gets into the best school of the town, when he/she cracks toughest of exam and gets into the best university, gets a fat salary settles down. _Peace_. As a kid, we grow up learning these gestures from our parents and people that surrouds us. As the year passes and the kid grows, his soul dies each time he fails his parents. Finally, when he is a grown individual and is ready to take up it's own responsibility, he sees happiness as he has learnt it all the way, as something derived from the world around us. He is chasing something, he knows he's going somewhere, but he doesn't know where this is leading him to. He's lost. What we are missing is the fact that happiness whould be something coming from within not our surrounding.
+Happiness has always been pictured to us by the society as something which could be derived from outside, materials. Parents get happy when their kids scores good, when the kid wins the first prize, when the kid gets into the best school of the town, when he/she cracks toughest of exam and gets into the best university, gets a fat salary, settles down. _Peace_. As a kid, we grow up learning these gestures from our parents and people that surrouds us. As the year passes and the kid grows, his soul dies each time he fails his parents. Finally, when he is a grown individual and is ready to take up it's own responsibility, he sees happiness as he has learnt it all the way, as something derived from the world around us. He is chasing something, he knows he's going somewhere, but he doesn't know where this is leading him to. He's lost. What we are missing is the fact that happiness would be something coming from within us not our surrounding (_material_).
 
 He hustles, he gets busy to get promoted. Works days and night. Over-time. He is chasing happiness but is he really happy? He is busy right? Is this what we are living this life for? 
 
