@@ -3,16 +3,16 @@ layout: post
 section-type: post
 title: Apathy and Entrophy Part 1.
 category: Muse
-tags: [ 'The Musing Mind' ]
+tags:
+  - The Musing Mind
+published: true
 ---
-
-_Disclaimer: This is totally my personal views and things I have learnt. This is maynot be true for all people, but it can be helpful to those teenagers/ going to be adults who feel lost and detached and need some help._
 
 "_In all spontaneous processes,the total entropy always increases and the process is irreversible. The increase in entropy accounts for the irreversibility of natural processes, and the asymmetry between future and past_."
 
 This is the second law of thermodynamics and one of the earliest proof of the universe motivating us to not settle down for anything less and just taking risk, keep growing, exploring, innovating and most important keep increasing the choas in the universe. (for good).
 
-Then who are we to deny science? Why are we bend on settling down? Are we being selfish? Are we being wise? Or are we being lazy?
+Then Why are we bend on settling down? Are we being selfish? Are we being wise? Or are we being lazy?
 
 I have reached that phase of my life, where as a functioning member of the society, I have made the foundation to the settling down. Freshly brewed in the college. I got into an MNC. A decent job, a decent salary. What comes next?  Finding a good earning groom. Getting married. Get kids, a pet, buy a house in suburb and live it off lavishly? It sounds perfect. Normal. Sounds like what is socially accepted. 
 
