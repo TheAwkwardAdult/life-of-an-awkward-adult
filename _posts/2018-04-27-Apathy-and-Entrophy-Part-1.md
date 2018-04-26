@@ -14,7 +14,7 @@ This is the second law of thermodynamics and one of the earliest proof of the un
 
 Then Why are we bend on settling down? Are we being selfish? Are we being wise? Or are we being lazy? 
 
-We wake up to the sound of alarm. Start rushing, hustling. We are busy. Checking whatsapp messages, 
+We wake up to the sound of alarm. Start rushing, hustling. We are busy. Checking whatsapp messages, facebook, instagram, twitter, emails, 
 
 _busy._
 
