@@ -14,7 +14,7 @@ This is the second law of thermodynamics and one of the earliest proof of the un
 
 Then Why are we bend on settling down? Are we being selfish? Are we being wise? Or are we being lazy? 
 
-We wake up to the sound of alarm. Start rushing, hustling. We are busy. Check whatsapp messages, check people's status
+We wake up to the sound of alarm. Start rushing, hustling. We are busy. Checking whatsapp messages, 
 
 _busy._
 
@@ -26,9 +26,9 @@ This reminds me of an article published in 'The New York Time', 'The Busy Trap'.
 
 _"Busyness serves as a kind of existential reassurance, a hedge against emptiness; obviously your life cannot possibly be silly or trivial or meaningless if you are so busy, completely booked, in demand every hour of the day."_
 
-Now question arises, why do we have this emptiness in us? after all, you live only once, you are the most important person in your life, it is your happiness that matters. Whatever you are doing now, should make you happy not empty. 
+Now question arises, why do we have this emptiness in us? After all, you live only once, you are the most important person in your life, it is your happiness that matters. Whatever you are doing now, should make you happy not empty. 
 
-The culprit, I may say is the way we are raised and brought up in this society. The education system. 
+What's going wrong? Why are we void inside? The reason being, the way we see happiness. 
 
 Happiness has always been pictured to us by the society as something which could be derived from outside, materials. Parents get happy when their kids scores good, when the kid wins the first prize, when the kid gets into the best school of the town, when he/she cracks toughest of exam and gets into the best university, gets a fat salary settles down. _Peace_. As a kid, we grow up learning these gestures from our parents and people that surrouds us. As the year passes and the kid grows, his soul dies each time he fails his parents. Finally, when he is a grown individual and is ready to take up it's own responsibility, he sees happiness as he has learnt it all the way, as something derived from the world around us. What we are missing is the fact that happiness whould be something coming from within not our surrounding.
 
@@ -36,7 +36,7 @@ He hustles, he gets busy to get promoted. Works days and night. Over-time. He is
 
 Who are the real happy people then? Does that mean that we should be spending more time in leisure activities and stop being busy?
 
-Now here comes that section of society, bragging about "Passion". 
+We must have heard people talking about, "Passion". 
 
 "Passion matters you know."
 
@@ -48,8 +48,7 @@ Now here comes that section of society, bragging about "Passion".
 
 And hence bringing down the morale of already dying soul.
 
-Some month backs, I came across this video debating on wheather passion really matters to succed in life. As I more come to think of it, as the narrator there says,
-Your engagement in your work, your productivity and happiness depends on 3 main factors:
-1. Creativity. : opportunity to improvise your work and implement your ideas
-2. Control.: you have some say on how, when and where your work gets done.
-3. Impact.: your work has a positive influence on your co-workers or customers.
+Some month backs, I came across this video debating on wheather passion really matters to succeed in life. The narrator there says,
+Your engagement in your work, your productivity and happiness depends on 3 main factors: Creativity, Control, Impact.
+
+_to be continued._
