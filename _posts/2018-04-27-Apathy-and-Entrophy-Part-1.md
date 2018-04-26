@@ -48,7 +48,7 @@ We must have heard people talking about, "Passion".
 
 "How could you not be having a passion."
 
-And hence bringing down the morale of already dying soul. 
+And hence bringing down the morale of already lost soul. 
 
 Some month backs, I came across this video debating on wheather passion really matters to succeed in life. The narrator there says,
-Your engagement in your work, your productivity and happiness depends on 3 main factors: Creativity, Control, Impact.
+Your engagement in your work, your productivity and happiness depends on 3 main factors: _Creativity, Control, Impact._
