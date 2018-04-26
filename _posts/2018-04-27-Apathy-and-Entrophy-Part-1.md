@@ -10,7 +10,7 @@ published: true
 
 "_In all spontaneous processes,the total entropy always increases and the process is irreversible. The increase in entropy accounts for the irreversibility of natural processes, and the asymmetry between future and past_."
 
-This is the second law of thermodynamics and one of the earliest proof of the universe motivating us to not settle down for anything less and just taking risk, keep growing, exploring, innovating and most important keep increasing the choas in the universe. (for good).
+This is the second law of thermodynamics and one of the earliest proof of the universe motivating us to not settle down for anything less and just taking risk, keep growing, exploring, innovating and most important keep increasing the choas in the universe.
 
 Then Why are we bend on settling down? Are we being selfish? Are we being wise? Or are we being lazy? 
 
