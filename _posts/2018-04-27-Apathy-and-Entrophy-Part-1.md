@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Apathy and Entrophy Part 1.
+title: Apathy and Entropy Part 1.
 category: Muse
 tags:
   - The Musing Mind
