@@ -6,7 +6,6 @@ category: What's up.
 tags: [ 'sad days' ]
 ---
 
-## An ode to the stye.
 _I got a stye,_
 
 _In my eye._
