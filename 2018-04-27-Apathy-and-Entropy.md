@@ -1,53 +1,12 @@
-## A New Post
+Carl Newport in his book, "So good that you cannot ignore", says, three traits that defines great work are:
+1. Creativity: opportunity to improvise your work and implement your ideas
+2. Control: you have some say on how, when and where your work gets done.
+3. Impact: your work has a positive influence on your co-workers or customers.
 
+The only thing that differents passionate people from others is the fact that they find these 3 things in the work they do. 
 
-_Disclaimer: This is totally my personal views and things I have learnt. This is maynot be true for all people, but it can be helpful to those teenagers/ going to be adults who feel lost and detached and need some help._
+After I was done with my school, I had no idea about what I really wanted to do with my life. I was lost. I had been a good student throught out my school days. Some of my friends were opting for science, some were opting for art, commerce. 
 
-"_In all spontaneous processes,the total entropy always increases and the process is irreversible. The increase in entropy accounts for the irreversibility of natural processes, and the asymmetry between future and past_."
+I took up science. I decided to prepare for engineering just because I liked writing computer programs and I didn't really know what all other options I had. 
 
-This is the second law of thermodynamics and one of the earliest proof of the universe motivating us to not settle down for anything less and just taking risk, keep growing, exploring, innovating and most important keep increasing the choas in the universe. (for good).
-
-Then who are we to deny science? Why are we bend on settling down? Are we being selfish? Are we being wise? Or are we being lazy?
-
-I have reached that phase of my life, where as a functioning member of the society, I have made the foundation to the settling down. Freshly brewed in the college. I got into an MNC. A decent job, a decent salary. What comes next?  Finding a good earning groom. Getting married. Get kids, a pet, buy a house in suburb and live it off lavishly? It sounds perfect. Normal. Sounds like what is socially accepted. 
-
-We wake up to the sound of alarm. Start rushing, hustling. We are busy. Check whatsapp messages, check people's status
-
-_busy._
-
-_busy._
-
-_busy._
-
-This reminds me of an article published in 'The New York Time', 'The Busy Trap'. Most people in this world are busy doing there routine each day. How many of us are really productive? What is about? Is it about being busy or productive? How do you know what you are actually doing in your life?
-
-_"Busyness serves as a kind of existential reassurance, a hedge against emptiness; obviously your life cannot possibly be silly or trivial or meaningless if you are so busy, completely booked, in demand every hour of the day."_
-
-Now question arises, why do we have this emptiness in us? after all, you live only once, you are the most important person in your life, it is your happiness that matters. Whatever you are doing now, should make you happy not empty. 
-
-The culprit, I may say is the way we are raised and brought up in this society. The education system. 
-
-Happiness has always been pictured to us by the society as something which could be derived from outside, materials. Parents get happy when their kids scores good, when the kid wins the first prize, when the kid gets into the best school of the town, when he/she cracks toughest of exam and gets into the best university, gets a fat salary settles down. _Peace_. As a kid, we grow up learning these gestures from our parents and people that surrouds us. As the year passes and the kid grows, his soul dies each time he fails his parents. Finally, when he is a grown individual and is ready to take up it's own responsibility, he sees happiness as he has learnt it all the way, as something derived from the world around us. What we are missing is the fact that happiness whould be something coming from within not our surrounding.
-
-He hustles, he gets busy to get promoted. Works days and night. Over-time. He is chasing happiness but is he really happy? He is busy right? Is this what we are living this life for? 
-
-Who are the real happy people then? Does that mean that we should be spending more time in leisure activities and stop being busy?
-
-Now here comes that section of society, bragging about "Passion". 
-
-"Passion matters you know."
-
-"Passion drives you."
-
-"Life sucks without passion."
-
-"How could you not be having a passion."
-
-And hence bringing down the morale of already dying soul.
-
-Some month backs, I came across this video debating on wheather passion really matters to succed in life. As I more come to think of it, as the narrator there says,
-Your engagement in your work, your productivity and happiness depends on 3 main factors:
-1. Creativity. : opportunity to improvise your work and implement your ideas
-2. Control.: you have some say on how, when and where your work gets done.
-3. Impact.: your work has a positive influence on your co-workers or customers.
-
+When I started my undergraduation, I was determined to take up something as passion and work on it. I always wanted to be a researcher. But I was such a fucking dumb head. So fucking retard. Fucking shitty head. Shitty shit. lol. No I wasn't. Or was I? lol. What was the fucking problem with me? I am going through the same problem now. The problem is I wasn't focused. Why wasn't I focus? Fight against the odds. I don't have the will power. Why?
