@@ -1,17 +1,17 @@
 _“Nobody ever takes note of [my advice], because it’s not the answer they wanted to hear,” Martin said. “What they want to hear is ‘Here’s how you get an agent, here’s how you write a script,’… but I always say, ‘Be so good they can’t ignore you.’ ”_
 
-The new college life looks so exciting and over-whelming. We start slacking. After having being grinded since the time we started our education, this new freedom seems sweet. If not guided properly they tend to end up lost and just follow the crowd in the fear of being not left behind.
+The new college life looks so exciting and over-whelming. With new found freedom from the protected environment of parents. We start slacking. After having being grinded since the time we started our education, this new freedom seems sweet. If not guided properly they tend to end up lost and just follow the crowd in the fear of being not left behind.
 
 As a fresher in a university, a lot of students are bored, available and ambitious, which according to Cal Newport is a dangerous combination.
 
-The 4 years of university is the time when one should explore all the posibilities available to him/her and actually start working on it. While in there, we come across 2 kind of people:
-1. The academically enagaged students- who are still in the trance of joint exams and boards are enagaged in bringing top marks.
-2. The passionate buds: these people are the lucky ones who have found their true calling and work towards it and some of them bragging about it too.
+The 4 years of university is the time when one should explore all the posibilities available to him/her and actually start working on it. If you ask me, while I was in college, I came across 3 kind of students:
+1. The high schoolers- who are academically engaged and still in the trance of joint exams and boards are bend on bringing top marks.
+2. The passionate buds: these people are the lucky ones who have found their true calling and work towards it. Some of them are so full of boiling blood that they can't stand people who are not "passionate" enough.
 3. The lost souls: These people have realised the scam of getting good marks and have given up on academics. But nevertheless they fancy passion but are lost just the same.
 
 I being a lost soul was blinded by the passion hypothesis. But how do we know our true calling? I tried my hands on a couple of things but nothing seem to interest me. Sonner or later I gave up. 
 
-The reason I am writing this blog post is because when I was a kind, I desperately wanted some help and guidance but I couldn't. So I researched a lot, surfed the net, and came across just what I needed. This blog post came so late because I had to read a whole book to finish this off. Today I write about what I learnt from this book, which I could recommend everyone to read, "So good they can't ignore." by Cal Newport.
+The reason I am writing this blog post is because when I was a kid, I desperately wanted some help and guidance but I couldn't. So I researched a lot, surfed the net, and came across just what I needed. This blog post came so late because I had to read a whole book to finish this off. Today I write about what I learnt from this book, which I could recommend everyone to read, "So good they can't ignore." by Cal Newport.
 
 _"If you want realistic path towards a meaningful and engaging life and be freed of the catchphrases like, "follow your pasion" and "do what you love" , the catch phrases that spawn the career confusion that afflicts so many today, "_ this post is for you. If you are a book-worm and have time to spare, I would rather recommend you give this book a read.
 
