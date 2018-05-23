@@ -1,12 +1,12 @@
 _“Nobody ever takes note of [my advice], because it’s not the answer they wanted to hear,” Martin said. “What they want to hear is ‘Here’s how you get an agent, here’s how you write a script,’… but I always say, ‘Be so good they can’t ignore you.’ ”_
 
-The new college life looks so exciting and over-whelming. With new found freedom from the protected environment of parents. We start slacking. After having being grinded since the time we started our education, this new freedom seems sweet. If not guided properly they tend to end up lost and just follow the crowd in the fear of being not left behind.
+The new college life looks so exciting and over-whelming. With new found freedom from the protected environment of parents. We start slacking. After having being grinded since the time we started our education, this new freedom seems sweet. If not guided properly they may tend to end up lost and just follow the crowd in the fear of being not left behind.
 
 As a fresher in a university, a lot of students are bored, available and ambitious, which according to Cal Newport is a dangerous combination.
 
 The 4 years of university is the time when one should explore all the posibilities available to him/her and actually start working on it. If you ask me, while I was in college, I came across 3 kind of students:
 1. The high schoolers- who are academically engaged and still in the trance of joint exams and boards are bend on bringing top marks.
-2. The passionate buds: these people are the lucky ones who have found their true calling and work towards it. Some of them are so full of boiling blood that they can't stand people who are not "passionate" enough.
+2. The passionate buds: these people are the lucky ones who have found their true calling and work towards it. Some of them are so full of of it that they can't stand people who are not "passionate" enough.
 3. The lost souls: These people have realised the scam of getting good marks and have given up on academics. But nevertheless they fancy passion but are lost just the same.
 
 I being a lost soul was blinded by the passion hypothesis. But how do we know our true calling? I tried my hands on a couple of things but nothing seem to interest me. Sonner or later I gave up. 
@@ -18,13 +18,22 @@ _"If you want realistic path towards a meaningful and engaging life and be freed
 Rule #1 **Don't follow your passion.**
 dismisses passion hypothesis.
 _Just something I was wanting to hear?_
-This rule dismisses the passion hypothesis that you should just follow your passion. Not everyone is born with an inborn aim or know what they want to do in thier life from the first day. One may agrue that people with passion seems to always succeed in life compared to those who didn't have any passion for example Steve Jobs. But if you go into details about how these successful people actually became so, you will see each of them follows the same set of pattern instead of just waking up one day and finding thier true calling, which will be discussed later.
+This rule dismisses the passion hypothesis that you should just follow your passion. Not everyone is born with an inborn aim or know what they want to do in their life from the first day. One may agrue that people with passion seems to always succeed in life compared to those who didn't have any passion for example Steve Jobs. But if you go into details about how these successful people actually became so, you will see each of them follows the same set of pattern instead of just waking up one day and finding their true calling, which will be discussed later.
 
 _"In which I question the validity of
 the passion hypothesis, which says
 that the key to occupational
 happiness is to match your job to a
 pre-existing passion."_
+
+Amy Wrzesniewski, a professor of Organizational behaviour at Yale University, differentiated between a job, career and calling. A job is way to pay bills, a career is a path towards increasingly  better work, and a calling is a work that's an important part of your life and a vital part of your identity.
+
+Each of the three are just as important as the other for us. 
+For our day to day needs, we need a job, a way to earn our bread.
+Change is the only permanent thing in this world: The world is changing each and everyday. Learning, growing, becoming better at something worthwhile gives us a sense of achievement and excitement and make us more motivated towards life and also drives us to do even better, helping us to make the best version of ourself.
+Calling: Enough done for ourself. Calling according to me, is a cause towards which we tend to work to have the sense of our contribution to something. We human are social being, and we each and everyone of us need an existential assurance. The fact that our work, is infact a contribution to something great gives us such assurance.
+
+These 3 things according to me are important to make us happy, and if one has all of these 3 thing in thier life, they infact are not empty and truly happy. 
 
 1. Career Passions are rare. : 
 2. Passion takes time. : Job, Career, Calling
