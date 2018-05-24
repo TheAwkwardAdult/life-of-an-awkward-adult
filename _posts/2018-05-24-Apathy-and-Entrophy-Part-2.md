@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Apathy and Entrophy.
+title: Apathy and Entrophy Part-II.
 category: Muse.
 tags: [ 'the musing mind' ]
 ---
@@ -71,7 +71,7 @@ _the first control trap: A warning to heed when trying to introduce more control
 
 _the second control trap :Another warning to heed when trying to introduce more control into your working life. It represents the principle that when you acquire enough career capital(skill) to acquire meaningful control over your working life, that’s exactly when you’ve become valuable enough to your current employer that they will try to prevent you from making the change._
 
-Rule #4 **Think small, act big.** importance of mission.(imapact)
+Rule #4 **Think small, act big.** importance of mission.(impact)
 
 _"To have a mission is to have a unifying focus for your career. It’s more general than a specific job and can span multiple positions. It provides an answer to the question, What should I do with my life? Missions are powerful because they focus your energy toward a useful goal, and this in turn maximizes your impact on your world—a crucial factor in loving what you do. People who feel like their careers truly matter are more satisfied with their working lives, and they’re also more resistant to the strain of hard work."_
 
