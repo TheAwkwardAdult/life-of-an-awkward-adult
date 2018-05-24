@@ -38,17 +38,29 @@ Calling according to me, is a cause towards which we tend to work to have the se
 
 These 3 things according to me are important to make us happy, and if one has all of these 3 thing in thier life, they infact are not empty and truly happy. 
 
-1. Career Passions are rare. : 
-2. Passion takes time. : Job, Career, Calling
-A job, in Wrzesniewski’s formulation, is a way to pay the bills, a career is a path toward increasingly better work, and a calling is work that’s an important part of your life and a vital part of your identity.
-3. Passion is a side effect of mastery.
-SDT tells us that motivation, in the workplace or elsewhere, requires that you fulfill three basic psychological needs—factors described as the “nutriments” required to feel intrinsically motivated for your work: Autonomy: the feeling that you have control over your day, and that your actions are important
-Competence: the feeling that you are good at what you do
-Relatedness: the feeling of connection to other people
-4. Passion is dangerous.
-
 Rule #2 **Be so good they can't ignore you.**
-page: 428 replaced passion hypothesis with career capital theory 
+page: 428 Rule 2 replaced passion hypothesis with career capital theory.
+Let's face the truth, each and everyone of us craves to be unique in a crowd. We want to be known. We want to be identified. So what sets one apart?
+
+"the traits that make a great job great are rare and valuable, and therefore, if you want a great job, you need to build up rare and valuable skills—which I call _career capital_—to offer in return."
+
+_"Basic economic theory tells us that if you want something that’s both rare and valuable, you need something rare and valuable to offer in return."_
+
+So now, we shift our focus from a passion mindset to becoming good at a skill so that we have something rare and valuable to offer to the world. 
+
+Traits that define great work:
+Creativity: opportunity to improvise your work and implement your ideas
+Control: you have some say on how, when and where your work gets done.
+Impact: your work has a positive influence on your co-workers or customers.
+
+Now the question is, How do you get these traits in your working life?
+
+The world is full of a lot of oppurtunities to make your life interesting and it has nothing to do with having a passion. But in order to avail those oppurtunities, you need to have an open mind and something rare and valuable to offer. Now while trying to acquire any skill, if we look at the graph:
+insert image.
+
+While on the path of mastering any skill, if we stop pushing ourself forward, we get stuck in this "Plateau of Acceptable level." To jump from this Plateau to the Magical land of "Rare and Valuable", we need what is called deliberate practice. These plateau is dangerous because it is stagnant and keeps you from growing further, thus preventing you from becoming rare and valuable.
+
+
 1. Passion mindeset vs craftsman mindset.
 2. Be a craftsman. 
 3. Career Capital.
@@ -65,7 +77,7 @@ The 5 habits of a craftsman.
 
 Rule #3 **The Dream-Job Elixir - _Control_** the 2 control traps.
 **Turn down a promotion.** _Importance of control._
-1. The 2 control traps.
+1. The 2 control traps.	
 2. Control requires captial.
 3. Here comes risk. (whether you should take it or not.)
 4. Control generates resistence.
