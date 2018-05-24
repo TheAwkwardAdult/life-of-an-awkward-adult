@@ -24,7 +24,9 @@ The reason I am writing this blog post is because when I was a kid, I desperatel
 _"If you want realistic path towards a meaningful and engaging life and be freed of the catchphrases like, "follow your pasion" and "do what you love" , the catch phrases that spawn the career confusion that afflicts so many today, "_ this post is for you. If you are a book-worm and have time to spare, I would rather recommend you give this book a read.
 
 Rule #1 **Don't follow your passion.**
+
 _Just something I was wanting to hear?_
+
 This rule dismisses the passion hypothesis that you should just follow your passion. Not everyone is born with an inborn aim or know what they want to do in their life from the first day. One may agrue that people with passion seems to always succeed in life compared to those who didn't have any passion, for example Steve Jobs. But if you go into details about how these successful people actually became so, you will see each of them follows the same set of pattern instead of just waking up one day and finding their true calling, which will be discussed later.
 
 _"In which I question the validity of the passion hypothesis, which says that the key to occupational happiness is to match your job to a pre-existing passion."_
@@ -41,6 +43,7 @@ Career is a measure of our personal growth. Growth gives us a sense of achieveme
 Calling according to me, is a cause towards which we tend to work to have the sense of our contribution to something. We human are social being, and we each and everyone of us need an existential assurance. The fact that our work, is infact a contribution to something great gives us such assurance.
 
 Rule #2 **Be so good they can't ignore you.**
+
 Rule 2 replaced passion hypothesis with career capital theory.
 Let's face the truth, each and everyone of us craves to be unique in a crowd. We want to be known. We want to be identified. So what sets one apart?
 
@@ -62,16 +65,19 @@ The world is full of a lot of oppurtunities to make your life interesting and it
 
 While on the path of mastering any skill, if we stop pushing ourself forward, we get stuck in this "Plateau of Acceptable level." To jump from this Plateau to the Magical land of "Rare and Valuable", we need what is called deliberate practice. The Plateau of acceptable level is dangerous because it prevents us from becoming rare and valuable. We'll be discussing more about deliberate pratice in coming posts.
 
-Rule #3 **The Dream-Job Elixir - _Control_** the 2 control traps.
-**Turn down a promotion.** _Importance of control._
+Rule #3 **The Dream-Job Elixir - _Control_** 
 
-The second trait defining a great work is Control. In our lifetime, we would be coming across 2 controls, while the first one should be dismissed at all cost, the second one is the one that sets us free. 
+The second trait defining a great work is Control. In our lifetime, we would be coming across 2 control traps, while the first one should be dismissed at all cost, the second one is the one that sets us free. 
+
 _The 2 control traps._
+
 _the first control trap: A warning to heed when trying to introduce more control into your working life. It represents the principle that control that’s acquired without career capital(skill) is not sustainable._
 
 _the second control trap :Another warning to heed when trying to introduce more control into your working life. It represents the principle that when you acquire enough career capital(skill) to acquire meaningful control over your working life, that’s exactly when you’ve become valuable enough to your current employer that they will try to prevent you from making the change._
 
-Rule #4 **Think small, act big.** importance of mission.(impact)
+Rule #4 **Think small, act big.** 
+
+importance of mission (impact)
 
 _"To have a mission is to have a unifying focus for your career. It’s more general than a specific job and can span multiple positions. It provides an answer to the question, What should I do with my life? Missions are powerful because they focus your energy toward a useful goal, and this in turn maximizes your impact on your world—a crucial factor in loving what you do. People who feel like their careers truly matter are more satisfied with their working lives, and they’re also more resistant to the strain of hard work."_
 
