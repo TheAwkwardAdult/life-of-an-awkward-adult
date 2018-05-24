@@ -11,14 +11,13 @@ The 4 years of university is the time when one should explore all the posibiliti
 
 I being a lost soul was blinded by the passion hypothesis. But how do we know our true calling? I tried my hands on a couple of things but nothing seem to interest me. Sonner or later I gave up. 
 
-The reason I am writing this blog post is because when I was a kid, I desperately wanted some help and guidance but I couldn't. So I researched a lot, surfed the net, and came across just what I needed. This blog post came so late because I had to read a whole book to finish this off. Today I write about what I learnt from this book, which I could recommend everyone to read, "So good they can't ignore." by Cal Newport.
+The reason I am writing this blog post is because when I was a kid, I desperately wanted some help and guidance but I couldn't. I hope this helps those who are just as lost as I was and need some guidance. This blog post came so late because I had to read a whole book to uncover the secret behind so many people ending up loving what they do and the other group, who are empty and hate their work. Today I write about what I learnt from this book, which I could recommend everyone to read, "So good they can't ignore." by Cal Newport. 
 
 _"If you want realistic path towards a meaningful and engaging life and be freed of the catchphrases like, "follow your pasion" and "do what you love" , the catch phrases that spawn the career confusion that afflicts so many today, "_ this post is for you. If you are a book-worm and have time to spare, I would rather recommend you give this book a read.
 
 Rule #1 **Don't follow your passion.**
-dismisses passion hypothesis.
 _Just something I was wanting to hear?_
-This rule dismisses the passion hypothesis that you should just follow your passion. Not everyone is born with an inborn aim or know what they want to do in their life from the first day. One may agrue that people with passion seems to always succeed in life compared to those who didn't have any passion for example Steve Jobs. But if you go into details about how these successful people actually became so, you will see each of them follows the same set of pattern instead of just waking up one day and finding their true calling, which will be discussed later.
+This rule dismisses the passion hypothesis that you should just follow your passion. Not everyone is born with an inborn aim or know what they want to do in their life from the first day. One may agrue that people with passion seems to always succeed in life compared to those who didn't have any passion, for example Steve Jobs. But if you go into details about how these successful people actually became so, you will see each of them follows the same set of pattern instead of just waking up one day and finding their true calling, which will be discussed later.
 
 _"In which I question the validity of
 the passion hypothesis, which says
@@ -26,12 +25,16 @@ that the key to occupational
 happiness is to match your job to a
 pre-existing passion."_
 
-Amy Wrzesniewski, a professor of Organizational behaviour at Yale University, differentiated between a job, career and calling. A job is way to pay bills, a career is a path towards increasingly  better work, and a calling is a work that's an important part of your life and a vital part of your identity.
+Amy Wrzesniewski, a professor of Organizational behaviour at Yale University, differentiated between a job, career and calling. 
+
+_"A job is way to pay bills, a career is a path towards increasingly  better work, and a calling is a work that's an important part of your life and a vital part of your identity."_
 
 Each of the three are just as important as the other for us. 
-For our day to day needs, we need a job, a way to earn our bread.
-Change is the only permanent thing in this world: The world is changing each and everyday. Learning, growing, becoming better at something worthwhile gives us a sense of achievement and excitement and make us more motivated towards life and also drives us to do even better, helping us to make the best version of ourself.
-Calling: Enough done for ourself. Calling according to me, is a cause towards which we tend to work to have the sense of our contribution to something. We human are social being, and we each and everyone of us need an existential assurance. The fact that our work, is infact a contribution to something great gives us such assurance.
+We need a job to earn our daily bread.
+
+Career is a measure of our personal growth. Growth gives us a sense of achievement. It keeps us motivated and excited towards life. It drives us to do even better to make the best version of ourself.
+
+Calling according to me, is a cause towards which we tend to work to have the sense of our contribution to something. We human are social being, and we each and everyone of us need an existential assurance. The fact that our work, is infact a contribution to something great gives us such assurance.
 
 These 3 things according to me are important to make us happy, and if one has all of these 3 thing in thier life, they infact are not empty and truly happy. 
 
