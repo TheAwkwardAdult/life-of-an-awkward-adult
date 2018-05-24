@@ -27,7 +27,7 @@ Rule #1 **Don't follow your passion.**
 
 _Just something I was wanting to hear?_
 
-This rule dismisses the passion hypothesis that you should just follow your passion. Not everyone is born with an inborn aim or know what they want to do in their life from the first day. One may agrue that people with passion seems to always succeed in life compared to those who didn't have any passion, for example Steve Jobs. But if you go into details about how these successful people actually became so, you will see each of them follows the same set of pattern instead of just waking up one day and finding their true calling, which will be discussed later.
+This rule dismisses the passion hypothesis that you should just follow your passion. Not everyone is born with an inborn aim or know what they want to do in their life from the first day. One may argue that people with passion seems to always succeed in life compared to those who didn't have any passion, for example Steve Jobs. But if you go into details about how these successful people actually became so, you will see each of them follows the same set of pattern instead of just waking up one day and finding their true calling, which will be discussed later.
 
 _"In which I question the validity of the passion hypothesis, which says that the key to occupational happiness is to match your job to a pre-existing passion."_
 
@@ -36,6 +36,7 @@ Amy Wrzesniewski, a professor of Organizational behaviour at Yale University, di
 _"A job is way to pay bills, a career is a path towards increasingly  better work, and a calling is a work that's an important part of your life and a vital part of your identity."_
 
 Each of the three are just as important as the other for us. 
+
 We need a job to earn our daily bread.
 
 Career is a measure of our personal growth. Growth gives us a sense of achievement. It keeps us motivated and excited towards life. It drives us to do even better to make the best version of ourself.
@@ -45,6 +46,7 @@ Calling according to me, is a cause towards which we tend to work to have the se
 Rule #2 **Be so good they can't ignore you.**
 
 Rule 2 replaced passion hypothesis with career capital theory.
+
 Let's face the truth, each and everyone of us craves to be unique in a crowd. We want to be known. We want to be identified. So what sets one apart?
 
 "the traits that make a great job great are rare and valuable, and therefore, if you want a great job, you need to build up rare and valuable skills—which I call _career capital_—to offer in return."
@@ -54,13 +56,16 @@ _"Basic economic theory tells us that if you want something that’s both rare a
 So now, we shift our focus from a passion mindset to becoming good at a skill so that we have something rare and valuable to offer to the world. 
 
 Traits that define great work:
-Creativity: opportunity to improvise your work and implement your ideas
+
+Creativity: opportunity to improvise your work and implement your ideas.
+
 Control: you have some say on how, when and where your work gets done.
+
 Impact: your work has a positive influence on your co-workers or customers.
 
 Now the question is, How do you get these traits in your working life?
 
-The world is full of a lot of oppurtunities to make your life interesting and it has nothing to do with having a passion. But in order to avail those oppurtunities, you need to have an open and curious mind and something rare and valuable to offer. Now while trying to acquire any skill, if we look at the graph:
+The world is full of a lot of oppurtunities to make your life interesting and it has nothing to do with having a passion. But in order to avail those oppurtunities, you need to have an open and curious mind and something rare and valuable to offer. 
 
 ![skillVsTime.png]({{site.baseurl}}/skillVsTime.png)
 
@@ -72,9 +77,9 @@ The second trait defining a great work is Control. In our lifetime, we would be 
 
 _The 2 control traps._
 
-_the first control trap: A warning to heed when trying to introduce more control into your working life. It represents the principle that control that’s acquired without career capital(skill) is not sustainable._
+_the first control trap: A warning to heed when trying to introduce more control into your working life. It represents the principle that control that’s acquired without career capital (skill) is not sustainable._
 
-_the second control trap :Another warning to heed when trying to introduce more control into your working life. It represents the principle that when you acquire enough career capital(skill) to acquire meaningful control over your working life, that’s exactly when you’ve become valuable enough to your current employer that they will try to prevent you from making the change._
+_the second control trap :Another warning to heed when trying to introduce more control into your working life. It represents the principle that when you acquire enough career capital (skill) to acquire meaningful control over your working life, that’s exactly when you’ve become valuable enough to your current employer that they will try to prevent you from making the change._
 
 Rule #4 **Think small, act big.** 
 
