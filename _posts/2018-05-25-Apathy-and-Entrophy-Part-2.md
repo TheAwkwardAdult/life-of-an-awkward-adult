@@ -67,7 +67,7 @@ Now the question is, How do you get these traits in your working life?
 
 The world is full of a lot of oppurtunities to make your life interesting and it has nothing to do with having a passion. But in order to avail those oppurtunities, you need to have an open and curious mind and something rare and valuable to offer. 
 
-![skillVsTime.png]({{site.baseurl}}/skillVsTime.png)
+![]({{site.baseurl}}//skillVsTime.png)
 
 While on the path of mastering any skill, if we stop pushing ourself forward, we get stuck in this "Plateau of Acceptable level." To jump from this Plateau to the Magical land of "Rare and Valuable", we need what is called deliberate practice. The Plateau of acceptable level is dangerous because it prevents us from becoming rare and valuable. We'll be discussing more about deliberate pratice in coming posts.
 
