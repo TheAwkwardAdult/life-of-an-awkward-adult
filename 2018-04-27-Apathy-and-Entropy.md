@@ -58,33 +58,18 @@ Now the question is, How do you get these traits in your working life?
 The world is full of a lot of oppurtunities to make your life interesting and it has nothing to do with having a passion. But in order to avail those oppurtunities, you need to have an open mind and something rare and valuable to offer. Now while trying to acquire any skill, if we look at the graph:
 insert image.
 
-While on the path of mastering any skill, if we stop pushing ourself forward, we get stuck in this "Plateau of Acceptable level." To jump from this Plateau to the Magical land of "Rare and Valuable", we need what is called deliberate practice. These plateau is dangerous because it is stagnant and keeps you from growing further, thus preventing you from becoming rare and valuable.
-
-
-1. Passion mindeset vs craftsman mindset.
-2. Be a craftsman. 
-3. Career Capital.
-4. Traits that define great work : _creativity, impact and control._
-5. Becoming a grandmaster.
-
-The 5 habits of a craftsman.
-1. Decide what capital market you're in.
-2. Identify your capital type.
-3. Define "Good"
-4. Stretch and Destroy.
-5. Be patient.
-
+While on the path of mastering any skill, if we stop pushing ourself forward, we get stuck in this "Plateau of Acceptable level." To jump from this Plateau to the Magical land of "Rare and Valuable", we need what is called deliberate practice. The Plateau of acceptable level is dangerous because it prevents us from becoming rare and valuable. We'll be discussing more about deliberate pratice in coming posts.
 
 Rule #3 **The Dream-Job Elixir - _Control_** the 2 control traps.
 **Turn down a promotion.** _Importance of control._
-1. The 2 control traps.	
-2. Control requires captial.
-3. Here comes risk. (whether you should take it or not.)
-4. Control generates resistence.
-5. Avoiding the control traps.
-6. The law of financial viability.
 
-Rule #4 **Think small, act big.** importance of mission.
+The second trait defining a great work is Control. In our lifetime, we would be coming across 2 controls, while the first one should be dismissed at all cost, the second one is the one that sets us free. 
+_The 2 control traps._
+_the first control trap: A warning to heed when trying to introduce more control into your working life. It represents the principle that control that’s acquired without career capital(skill) is not sustainable._
+
+_the second control trap :Another warning to heed when trying to introduce more control into your working life. It represents the principle that when you acquire enough career capital(skill) to acquire meaningful control over your working life, that’s exactly when you’ve become valuable enough to your current employer that they will try to prevent you from making the change._
+
+Rule #4 **Think small, act big.** importance of mission.(imapact)
 1. Mission requires capital.
 2. Capital driven mission.
 3. Mission requires little bets.
