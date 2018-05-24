@@ -81,6 +81,5 @@ _Importance of mission (impact)._
 
 _"To have a mission is to have a unifying focus for your career. It’s more general than a specific job and can span multiple positions. It provides an answer to the question, What should I do with my life? Missions are powerful because they focus your energy toward a useful goal, and this in turn maximizes your impact on your world—a crucial factor in loving what you do. People who feel like their careers truly matter are more satisfied with their working lives, and they’re also more resistant to the strain of hard work."_
 
-We will be discussing in details these topics in detail in subsequent posts.
 
 _DISCLAIMER : This post is mostly a summary of what I learnt from a book by Cal Newport. The ideas mentioned here are not mine but the thoughts are._
