@@ -19,7 +19,7 @@ The 4 years of college is the time when one should explore all the posibilities 
 
 I being a lost soul was blinded by the passion hypothesis. But how do we know our true calling? I tried my hands on a couple of things but nothing seem to interest me. Sooner or later I gave up. 
 
-The reason I am writing this blog post is because when I was a kid, I desperately wanted some help and guidance but I couldn't. I hope this helps those who are just as lost as I was and need some guidance. This blog post is more life a book summary/review. I had to read a whole book to uncover the secret behind so many people ending up loving what they do and also why some people feel empty and hate their work. Today I write about what I learnt from this book, which I could recommend everyone to read, "So good they can't ignore you." by Cal Newport. 
+The reason I am writing this blog post is because when I was a kid, I desperately wanted some help and guidance but I couldn't. I hope this helps those who are just as lost as I was and need some guidance. This blog post is more like a book summary/review. I had to read a whole book to uncover the secret behind so many people ending up loving what they do and also why some people feel empty and hate their work. Today I write about what I learnt from this book, which I could recommend everyone to read, "So good they can't ignore you." by Cal Newport. 
 
 _"If you want realistic path towards a meaningful and engaging life and be freed of the catchphrases like, "follow your pasion" and "do what you love" , the catch phrases that spawn the career confusion that afflicts so many today, "_ this post is for you. If you are a book-worm and have time to spare, I would rather recommend you give this book a read.
 
@@ -61,6 +61,7 @@ Impact: your work has a positive influence on your co-workers or customers.
 Now the question is, How do you get these traits in your working life?
 
 The world is full of a lot of oppurtunities to make your life interesting and it has nothing to do with having a passion. But in order to avail those oppurtunities, you need to have an open and curious mind and something rare and valuable to offer. Now while trying to acquire any skill, if we look at the graph:
+
 ![skillVsTime.png]({{site.baseurl}}/skillVsTime.png)
 
 While on the path of mastering any skill, if we stop pushing ourself forward, we get stuck in this "Plateau of Acceptable level." To jump from this Plateau to the Magical land of "Rare and Valuable", we need what is called deliberate practice. The Plateau of acceptable level is dangerous because it prevents us from becoming rare and valuable. We'll be discussing more about deliberate pratice in coming posts.
