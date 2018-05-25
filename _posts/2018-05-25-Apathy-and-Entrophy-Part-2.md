@@ -41,7 +41,7 @@ We need a job to earn our daily bread.
 
 Career is a measure of our personal growth. Growth gives us a sense of achievement. It keeps us motivated and excited towards life. It drives us to do even better to make the best version of ourself.
 
-Calling according to me, is a cause towards which we tend to work to have the sense of our contribution to something. We human are social being, and we each and everyone of us need an existential assurance. The fact that our work, is infact a contribution to something great gives us such assurance.
+Calling according to me, is a cause towards which we tend to work to have the sense of our contribution to something. We human are social being, need an existential assurance. The fact that our work, is infact a contribution to something great and we are a part of the bigger picture, gives us such assurance.
 
 Rule #2 **Be so good they can't ignore you.**
 
