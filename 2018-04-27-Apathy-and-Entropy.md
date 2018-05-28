@@ -1,1 +1,1 @@
-A open letter to all girls out there.
+A open letter to all woman out there.
