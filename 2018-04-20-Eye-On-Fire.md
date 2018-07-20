@@ -1,16 +1,18 @@
-My first experience in Bangalore was memorable not in a good way. With a heavy heart and hope that my second experience would be better than the first one, I boarded the flight. Luckily we got a decent flat on rent nearby the office area. Me and my two friends shifted there the next day. It took us around a week to settle down. We hired a maid for cooking and household works. It was in a residential area unlike the last one. I liked it in the first sight. It was a peaceful ambiance, mostly occupied by families. And because of the absence of the traffic cacophony in that area, naturally, we were able to hear what was going on the household nearby. Our maid, who lived in the servent's quarter under our floor said she was able to hear whatever we talked about in the Kitchen. We could hear the conversations of the families, children reciting their lessons. Kids playing. 
+My first experience in Bangalore was memorable not in a good way. With a heavy heart and hope that my second experience would be better than the first one, I boarded the flight. Luckily we got a decent flat on rent nearby the office area. Me and my two friends shifted there the next day. It took us around a week to settle down. We hired a maid for cooking and household works. It was in a residential area unlike the last one. I liked it fromt the start. The area had a peaceful ambiance, mostly occupied by families. And because of the absence of the traffic cacophony in that area, naturally, we were able to hear what was going on the household nearby. Our maid, who lived in the servent's quarter beneath our floor said she was able to hear whatever we talked about in the Kitchen. We could hear the conversations of the families, children reciting their lessons. Kids playing. 
 
 Out of all these, one sound was most amusing and irritating to us. The crying of a small baby and the father pacifying the kid. In one instance we heard the father saying, "No!", each time the baby cried, we thought what kind of sick father is that. And the sound was more profound while we sat down to eat.
 
-"Why does the kid always cry when we sit down to eat?"
+"Why does the kid always cry when we sit down to eat?" I asked while taking a sip of tea
 
 "I think that is the cry of a ghost baby." snickered Arundhati.
 
-"Well, yea, maybe it died out of hunger that's why he always cries when we sit down to eat?!"
+While in hostel, we shared the same corridor. Boys hostel are always more fun than girls. But no one could beat us when it came to gossiping. We would have evening meets mostly after dinner, mostly in my room, we used to talk about grades, hot topics, sex education, who hooked up with who, completing assignments, going deep into philosophy and life. Horror storiee were one of them. And I always chicked out in those conversations.
+
+"Well, yea, maybe it died out of hunger that's why he always cries when we sit down to eat?!" I joined in.
 
 And we started adding more and more details to the story.
 
-There was a parenting book along with some stuff that the landlord had left behind.
+The landlord had moved out only recently and didn't have time to clear some of his stuffs out of thr flat, as our moving in was urgent. We 
 
 "May be his parents worked in IT and were not good at parenting."
 
