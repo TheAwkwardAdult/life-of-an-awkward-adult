@@ -1,29 +1,31 @@
-This is a Friday reminder that you can be anything you want to be. Don't let people tell you that you set unachievable goals and then end up being disappointed which could have been avoided. Don't stop trying just to avoid being saddened and disappointed. They don't know what you know about yourself and your capabilities. People especially youth like us, expect to have y=mx+c career path. We have to understand the fact that minimas are unavoidable. 
+My first experience in Bangalore was memorable not in a good way. With a heavy heart and hope that my second experience would be better than the first one, I boarded the flight. Luckily we got a decent flat on rent nearby the office area. Me and my two friends shifted there the next day. It took us around a week to settle down. We hired a maid for cooking and household works. It was in a residential area unlike the last one. I liked it in the first sight. It was a peaceful ambiance, mostly occupied by families. And because of the absence of the traffic cacophony in that area, naturally, we were able to hear what was going on the household nearby. Our maid, who lived in the servent's quarter under our floor said she was able to hear whatever we talked about in the Kitchen. We could hear the conversations of the families, children reciting their lessons. Kids playing. 
 
-There is no fun in y=mx+c. 
+Out of all these, one sound was most amusing and irritating to us. The crying of a small baby and the father pacifying the kid. In one instance we heard the father saying, "No!", each time the baby cried, we thought what kind of sick father is that. And the sound was more profound while we sat down to eat.
 
-Accept disappointments. Dust yourself up. Get back up.
+"Why does the kid always cry when we sit down to eat?"
 
-_Go with the mindset that, "I will go on despite the minimas." It's then and only then that you can be whatever you want to be._
+"I think that is the cry of a ghost baby." snickered Arundhati.
 
-_This is a Friday reminder that you can be all you want to be, given you don't let people tell you otherwise._
+"Well, yea, maybe it died out of hunger that's why he always cries when we sit down to eat?!"
 
-The summer of 2017 has been one of the toughest period of my life. Turbulant. Things were going too fast and yet too slow. I was beaten. I was lost. I was emotionally torn. There were a lot of reasons I was still fighting. Fighting to keep on. And among the few best friends I have, there was this one person, who really helped me out seeing things in different light. I had never turned back again. I was grateful to have him there to help me out. Even though I am still not anywhere near to what I really want to be in my life( mainly because I didn't know exactly), I am still struggling against all odds.
+And we started adding more and more details to the story.
 
-My perspective changed though. Just like me there are hundreds of youth out there, struggling to keep up, they are tormented inside, emotionally maybe physically and mentally. From outside, when you see them, they seem pretty cool, but you never know what he/she i going through. Therefore be kind. Always.
+There was a parenting book along with some stuff that the landlord had left behind.
 
-" It feels like my life is falling apart."
+"May be his parents worked in IT and were not good at parenting."
 
-"My job, my relationship."
+"Maybe after a day's hardwork, they went for a drink to a pub and forgot to feed the kid and it died of hunger."
 
-"I'm in Limbo."
+Our humour was getting darker and darker. We started associateding all random things with the kid.
 
-"Sorry I am not emotionally fully stable." _This is what makes you human._
+"So this was the hook where the baby hanged itself."
 
-"Sometimes I wish I was an AI." 
+"Maybe we can people that, each time we heat the milk at night, in the morning we wake up to find all milk finised off."
 
-"I have been told that I have excessively high standards for myself . I often pointlessly disappoint myself and then feel bad." _Well, you have an alternative, take up people's advice, stop setting high standards for yourself, settle down for whatever life offers you, stop  having high hopes. Just stop living._
+"Guys, I'm booking the ride, we are already running late."
 
-The problem with today's youth is that, they expect a y=mx+c career path. They don't realise that minimas are unavoidable. 
+So I booked the ride, just like any other usual day. I hadn't packed my bag yet, so I asked my friends to go head down to the cab, while I will lock and come in a minute. I went to washroom to wash up. 
 
+I came out, they had already left, I picked up my bag and locked the door, I got down. The cab was waiting. But I couldn't find my friends anywhere.
 
+I called out thier name. No answer. I asked the driver to wait and went upstairs. Unlocked the door, I called out thier name again. No answer. I opened the door to the room and to my surprise, it was all empty. I chcecked Arundhati's room, it was empty too. I stood their frozen. From a distance I could hear the cab horns and a baby crying.
