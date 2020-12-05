@@ -40,7 +40,7 @@ favicon: "/img/mistaChulchula.ico"
 
 black-favicon: "/img/owl.ico"
 
-background-img: "../img/Book.jpg"
+background-img: "../img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -61,7 +61,7 @@ lines: # You can add HTML Tags in the Text
   
 
 
-me-img: "/img/LO3A1.png"
+me-img: "/img/jetpacktocat.png"
 
 ##############################
 # Color the browser elements #
